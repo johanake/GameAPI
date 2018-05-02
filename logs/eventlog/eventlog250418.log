@@ -1,0 +1,20 @@
+apr 25, 2018 9:07:13 FM app.logger.ServerLogger eventLog
+INFO: Yes ehllo russia this is big error message, gulag gulag gulag!!!
+apr 25, 2018 9:07:14 FM app.logger.ServerLogger eventLog
+INFO: Yes ehllo russia this is big error message, gulag gulag gulag!!!
+apr 25, 2018 9:07:14 FM app.logger.ServerLogger eventLog
+INFO: Yes ehllo russia this is big error message, gulag gulag gulag!!!
+apr 25, 2018 9:07:41 FM app.logger.ServerLogger eventLog
+INFO: Yes ehllo russia this is big error message, gulag gulag gulag!!!
+apr 25, 2018 9:18:31 FM app.logger.ServerLogger eventLog
+INFO: yes is this working excusi?? 
+apr 25, 2018 11:49:09 FM app.logger.ServerLogger eventLog
+INFO: yes is this working excusi?? 
+apr 25, 2018 12:46:37 EM app.logger.ServerLogger eventLog
+INFO: yes is this working excusi?? 
+apr 25, 2018 12:46:37 EM app.logger.ServerLogger eventLog
+INFO: Douyble logging
+apr 25, 2018 12:46:38 EM app.logger.ServerLogger eventLog
+INFO: yes is this working excusi?? 
+apr 25, 2018 12:46:38 EM app.logger.ServerLogger eventLog
+INFO: Douyble logging
